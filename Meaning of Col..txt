@@ -1,0 +1,6 @@
+Sibsp - Number of Siblings/Spouses Aboard. Parch - Number of Parents/Children Aboard. Ticket - Ticket Number. Fare - Passenger Fare.
+
+embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton) boat - Lifeboat (if survived) body - Body number (if did not survive and body was recovered)
+
+Pclass = passenger class
+The titanic and titanic2 data frames describe the survival status of individual passengers on the Titanic. ... pclass refers to passenger class (1st, 2nd, 3rd), and is a proxy for socio-economic class. Age is in years, and some infants had fractional values.
